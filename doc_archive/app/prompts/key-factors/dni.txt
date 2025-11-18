@@ -1,0 +1,12 @@
+Extract Spanish DNI/NIE information:
+
+Format rules:
+- DNI: 8 digits + 1 letter
+- NIE: Letter (X/Y/Z) + 7 digits + 1 letter
+- No spaces or special characters
+
+Validation:
+1. Check format compliance
+2. Verify control letter
+3. Confirm consistent usage across documents
+4. Note any discrepancies

@@ -1,0 +1,16 @@
+Analyze the provided document content to:
+1. Identify document owners and their relationship to the document
+2. Classify document types and their significance
+3. Extract key metadata like dates, reference numbers, and authorities
+
+Rules for document owner identification:
+- Primary owner is the document subject/beneficiary
+- Exclude signatories, witnesses, or administrative staff
+- Match owners across multiple documents using name normalization
+- Consider context and document type for owner determination
+
+Document type classification rules:
+- Match against known document templates and formats
+- Consider document headers, footers, and official markings
+- Identify document purpose and legal significance
+- Note temporal aspects (validity periods, issue dates)

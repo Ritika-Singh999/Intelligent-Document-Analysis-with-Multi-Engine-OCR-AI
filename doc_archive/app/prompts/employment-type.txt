@@ -1,0 +1,23 @@
+Determine employment type based on document evidence:
+
+Types:
+1. Employee
+2. Self-employed
+3. Public Servant
+4. Student
+5. Retired
+6. Unemployed
+
+Required evidence per type:
+- Employee: Payslips, employment contract, social security records
+- Self-employed: Tax declarations, VAT returns, professional licenses
+- Public Servant: Government appointment, public sector payslips
+- Student: Enrollment certificates, student ID, scholarship documents
+- Retired: Pension statements, retirement benefits
+- Unemployed: Unemployment benefits, job seeker registration
+
+Classification rules:
+- Require minimum 2 supporting documents per type
+- Consider document dates and validity
+- Note any conflicts or inconsistencies
+- Default to "Not Found" if insufficient evidence

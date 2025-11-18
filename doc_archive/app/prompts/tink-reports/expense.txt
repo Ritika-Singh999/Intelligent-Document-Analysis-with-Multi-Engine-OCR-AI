@@ -1,0 +1,37 @@
+Extract and analyze expense information from financial documents:
+
+Analysis points:
+1. Regular Expenses
+   - Housing (rent/mortgage)
+   - Utilities
+   - Insurance payments
+   - Transportation costs
+   - Food and groceries
+   - Healthcare expenses
+
+2. Business Expenses (if self-employed)
+   - Office supplies/equipment
+   - Professional services
+   - Business travel
+   - Marketing/advertising
+   - Software/subscriptions
+
+3. Expense Patterns
+   - Monthly recurring charges
+   - Quarterly payments
+   - Annual expenses
+   - Irregular large purchases
+
+4. Categories to Track
+   - Essential vs. non-essential
+   - Business vs. personal
+   - Tax-deductible items
+   - Debt payments
+
+Output format:
+- Total expenses per category
+- Monthly average spend
+- Expense trends
+- Notable patterns
+- Irregular transactions
+- Red flags or anomalies

@@ -1,0 +1,47 @@
+# --- Server & Core ---
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+typing_extensions
+torch
+torchvision
+torchaudio
+
+# --- LangChain Ecosystem ---
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langsmith
+langchain-text-splitters
+
+# --- Google / Gemini ---
+google-generativeai
+google-cloud-aiplatform
+
+# --- NLP / AI Models ---
+transformers
+torch
+sentence-transformers
+spacy
+
+# --- PDF / OCR / Extraction ---
+pypdf
+pdf2image
+pytesseract
+pillow
+unstructured[local-inference]
+faiss-cpu
+
+# --- Multi-Engine OCR ---
+paddleocr
+paddlepaddle
+easyocr
+onnxruntime
+
+# --- Utilities ---
+httpx
+aiohttp
+redis

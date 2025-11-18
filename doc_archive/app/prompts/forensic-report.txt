@@ -1,0 +1,33 @@
+Generate forensic analysis report for document authenticity:
+
+Analysis points:
+1. Document Structure
+   - Format consistency
+   - Expected elements present
+   - Standard layout compliance
+
+2. Content Validation
+   - Information consistency
+   - Cross-reference accuracy
+   - Temporal logic
+
+3. Metadata Analysis
+   - Creation/modification dates
+   - Digital signatures
+   - Document properties
+
+4. Security Features
+   - Official watermarks
+   - Security elements
+   - Authentication markers
+
+5. Anomaly Detection
+   - Inconsistent formatting
+   - Unusual modifications
+   - Content mismatches
+
+Output format:
+- Forensic confidence score
+- Detected inconsistencies
+- Verification status
+- Recommended actions

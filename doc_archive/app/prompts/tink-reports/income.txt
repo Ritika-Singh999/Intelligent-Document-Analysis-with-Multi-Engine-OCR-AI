@@ -1,0 +1,45 @@
+Extract and analyze income information from financial documents:
+
+Analysis points:
+1. Primary Income Sources
+   - Salary/wages
+   - Business income
+   - Professional fees
+   - Commission/bonuses
+   - Investment returns
+
+2. Income Classification
+   - Employment income
+   - Self-employment revenue
+   - Passive income
+   - Government benefits
+   - Pension/retirement
+
+3. Income Patterns
+   - Regular monthly income
+   - Quarterly payments
+   - Annual bonuses
+   - Seasonal variations
+   - Project-based income
+
+4. Key Metrics
+   - Gross income
+   - Net income
+   - Tax withholdings
+   - Social security contributions
+   - Income stability
+
+5. Documentation Types
+   - Payslips
+   - Bank statements
+   - Tax returns
+   - Invoices
+   - Contract payments
+
+Output format:
+- Total income per category
+- Monthly average income
+- Income source breakdown
+- Stability assessment
+- Growth/decline trends
+- Income verification status

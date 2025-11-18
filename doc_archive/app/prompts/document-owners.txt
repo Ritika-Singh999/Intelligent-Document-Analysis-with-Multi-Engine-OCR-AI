@@ -1,0 +1,16 @@
+Extract and validate document owners based on:
+1. Primary beneficiary identification
+2. Document subject determination
+3. Legal responsibility assignment
+
+Exclusion criteria:
+- Administrative staff
+- Witnesses
+- Notaries
+- Third-party signatories
+
+Owner information to extract:
+- Full legal name
+- DNI/NIE if present
+- Role or capacity
+- Relationship to document
