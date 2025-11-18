@@ -55,6 +55,3 @@ Use Git LFS for large artifacts (models, ONNX, large datasets).
 
 ## Contributing
 Please see `CONTRIBUTING.md` for contribution guidelines.
-
----
-If you want, I can add a minimal `CONTRIBUTING.md` and `CODE_OF_CONDUCT.md`, and optionally create a `tests/` skeleton and add a CodeQL analysis workflow or a test matrix.
